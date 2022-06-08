@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 </h3>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=e65e2a&width=380&height=45&lines=Full+Stack+web+developer;Target+full-stack+developer;Always+learning+new+things">
+    <img src="https://readme-typing-svg.herokuapp.com?color=e65e2a&width=380&height=45&lines=Now+java+developer;Target+full-stack+developer;Always+learning+new+things">
 </p>
 
 
