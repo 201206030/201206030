@@ -19,12 +19,13 @@ Here are some ideas to get you started:
 
 <!-- Typing SVG - https://github.com/DenverCoder1/readme-typing-svg -->
 <!-- Typing SVG Fast Demo - https://readme-typing-svg.herokuapp.com/demo/ -->
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=e65e2a&width=380&height=45&lines=Now+java+developer;Target+full stack+developer;Always+learning+new+things">
-</p>
+
+    [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Now+java+developer;Target+full stack+developer;Always+learning+new+thingscolor=e65e2a&width=380&height=45)](https://git.io/typing-svg)
+
+
 
 <p align="center">
-    <img src="https://img.shields.io/static/v1?label=wechat&message=xxyopen&color=7BB32E&logo=wechat">
+    <img src="https://img.shields.io/static/v1?label=公众号&message=xxyopen&color=7BB32E&logo=wechat">
     <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102" alt="Open Source Love">
 </p>
 
