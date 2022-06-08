@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-    <img src="https://img.shields.io/static/v1?label=公众号&message=xxyopen&color=7BB32E&logo=wechat">
+    <img src="https://img.shields.io/static/v1?label=wechat&message=xxyopen&color=7BB32E&logo=wechat">
     <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102" alt="Open Source Love">
 </p>
 
