@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **201206030/201206030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +12,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h3 align="center">
+    Hi~ Thank you for coming!
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+</h3>
+
+<!-- Typing SVG - https://github.com/DenverCoder1/readme-typing-svg -->
+<!-- Typing SVG Fast Demo - https://readme-typing-svg.herokuapp.com/demo/ -->
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?color=e65e2a&width=380&height=45&lines=Now+java+developer;Target+full stack+developer;Always+learning+new+things">
+</p>
+
+<p align="center">
+    <img src="https://img.shields.io/static/v1?label=wechat&message=xxyopen&color=7BB32E&logo=wechat">
+
+    <img src="https://visitor-badge.glitch.me/badge?page_id=201206030.novel" alt="visitors">
+
+<img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102" alt="Open Source Love">
+</p>
+
+<br/>
+
+🎉 **Welcome to my GitHub profile!**
+
 <a href="https://github.com/201206030">
   <img style="width:55%" src="https://github-readme-stats.vercel.app/api?username=201206030&count_private=true&show_icons=true&theme=radical&hide=commits" />
   <img style="width:40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=201206030&layout=compact&theme=radical"/>
