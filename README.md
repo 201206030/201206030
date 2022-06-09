@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 
 
 <p align="center">
+    <img alt="Spring Boot 3" src="https://img.shields.io/badge/Spring%20Boot%203-%23000000.svg?logo=springboot">
+    <img alt="Vue 3" src="https://img.shields.io/badge/Vue%203%20-%232b3847.svg?logo=vue.js">
     <img src="https://img.shields.io/static/v1?label=%E5%85%AC%E4%BC%97%E5%8F%B7&message=xxyopen&color=7BB32E&logo=wechat">
     <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102" alt="Open Source Love">
     <img src="https://visitor-badge.glitch.me/badge?page_id=201206030.novel" alt="visitors">
