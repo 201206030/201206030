@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
+    <img alt="JDK 17" src="https://img.shields.io/badge/JDK%2017-%234479A1.svg?logo=java">
     <img alt="Spring Boot 3" src="https://img.shields.io/badge/Spring%20Boot%203-%23000000.svg?logo=springboot">
     <img alt="Vue 3" src="https://img.shields.io/badge/Vue%203%20-%232b3847.svg?logo=vue.js">
     <img src="https://img.shields.io/static/v1?label=%E5%85%AC%E4%BC%97%E5%8F%B7&message=xxyopen&color=7BB32E&logo=wechat">
