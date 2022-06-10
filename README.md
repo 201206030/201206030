@@ -49,7 +49,6 @@ Here are some ideas to get you started:
 📘 **My own open source projects**
 
 <!-- GitHub Extra Pins - https://github.com/anuraghazra/github-readme-stats -->
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=201206030&repo=novel&theme=nightowl" />
 <a href="https://github.com/201206030/novel.git" >
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=201206030&repo=novel&theme=nightowl" />
 </a>
