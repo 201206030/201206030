@@ -45,8 +45,8 @@ Here are some ideas to get you started:
 💖 If you like what I do, maybe consider buying me a coffee/tea 🥺 👉 <a href="https://youdoc.github.io/wechat.jpg" target="_blank"><img alt="wechat" src="https://img.shields.io/badge/Wechat-5fcd72.svg?logo=wechat&logoColor=white" /></a> OR <a href="https://youdoc.github.io/alipay.jpg" target="_blank"><img alt="alipay" src="https://img.shields.io/badge/Alipay%20-%233379f6.svg?logo=alipay&logoColor=white"></a> 👈
 
 ------
-<details>
-## 📘 My own open source projects
+
+📘 ** My own open source projects **
 
 <!-- GitHub Extra Pins - https://github.com/anuraghazra/github-readme-stats -->
 <a href="https://github.com/201206030/novel.git" >
@@ -64,4 +64,4 @@ Here are some ideas to get you started:
 <a href="https://github.com/201206030/monitor.git">
   <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=201206030&repo=monitor&show_owner=true&theme=nightowl" />
 </a>
-</details>
+
