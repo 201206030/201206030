@@ -65,7 +65,3 @@ Here are some ideas to get you started:
   <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=201206030&repo=novel-cloud&theme=nightowl" />
 </a>
 
-<a href="https://github.com/201206030/monitor.git">
-  <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=201206030&repo=monitor&theme=nightowl" />
-</a>
-
