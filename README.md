@@ -50,18 +50,18 @@ Here are some ideas to get you started:
 
 <!-- GitHub Extra Pins - https://github.com/anuraghazra/github-readme-stats -->
 <a href="https://github.com/201206030/novel.git" >
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=201206030&repo=novel&show_owner=true&theme=nightowl" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=201206030&repo=novel&theme=nightowl" />
 </a>
 <a href="https://github.com/201206030/novel-front-web.git" >
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=201206030&repo=novel-front-web&show_owner=true&theme=nightowl" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=201206030&repo=novel-front-web&theme=nightowl" />
 </a>
 <a href="https://github.com/201206030/novel-plus.git">
-  <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=201206030&repo=novel-plus&show_owner=true&theme=nightowl" />
+  <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=201206030&repo=novel-plus&theme=nightowl" />
 </a>
 <a href="https://github.com/201206030/novel-cloud.git">
-  <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=201206030&repo=novel-cloud&show_owner=true&theme=nightowl" />
+  <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=201206030&repo=novel-cloud&theme=nightowl" />
 </a>
 <a href="https://github.com/201206030/monitor.git">
-  <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=201206030&repo=monitor&show_owner=true&theme=nightowl" />
+  <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=201206030&repo=monitor&theme=nightowl" />
 </a>
 
