@@ -48,10 +48,10 @@ Here are some ideas to get you started:
 📘 **My own open source projects**
 
 <!-- GitHub Extra Pins - https://github.com/anuraghazra/github-readme-stats -->
-<a href="https://github.com/201206030/novel.git">
+<a href="https://github.com/201206030/novel.git" style="width:45%">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=201206030&repo=novel&show_owner=true&theme=nightowl" />
 </a>
-<a href="https://github.com/201206030/novel-front-web.git">
+<a href="https://github.com/201206030/novel-front-web.git" style="width:45%">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=201206030&repo=novel-front-web&show_owner=true&theme=nightowl" />
 </a>
 <a href="https://github.com/201206030/novel-plus.git">
