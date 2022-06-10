@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 ------
 
-📘 **novel open source projects**
+📘 **Novel open source projects**
 
 <!-- GitHub Extra Pins - https://github.com/anuraghazra/github-readme-stats -->
 <a href="https://github.com/201206030/novel.git" >
