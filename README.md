@@ -49,20 +49,20 @@ Here are some ideas to get you started:
 📘 **Novel open source projects**
 
 <!-- GitHub Extra Pins - https://github.com/anuraghazra/github-readme-stats -->
-<a tartget="_blank" href="https://github.com/201206030/novel.git" >
+<a target="_blank" href="https://github.com/201206030/novel.git" >
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=201206030&repo=novel&theme=nightowl&cache_seconds=1802" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a tartget="_blank" href="https://github.com/201206030/novel-front-web.git" >
+<a target="_blank" href="https://github.com/201206030/novel-front-web.git" >
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=201206030&repo=novel-front-web&theme=nightowl" />
 </a>
 <br/>
 <br/>
-<a tartget="_blank" href="https://github.com/201206030/novel-plus.git">
+<a target="_blank" href="https://github.com/201206030/novel-plus.git">
   <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=201206030&repo=novel-plus&theme=nightowl&cache_seconds=1802" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a tartget="_blank" href="https://github.com/201206030/novel-cloud.git">
+<a target="_blank" href="https://github.com/201206030/novel-cloud.git">
   <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=201206030&repo=novel-cloud&theme=nightowl" />
 </a>
 
