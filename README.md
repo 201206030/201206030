@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 <!-- GitHub Extra Pins - https://github.com/anuraghazra/github-readme-stats -->
 <a href="https://github.com/201206030/novel.git" >
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=201206030&repo=novel&theme=nightowl&cache_seconds=1801" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=201206030&repo=novel&theme=nightowl&cache_seconds=1802" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/201206030/novel-front-web.git" >
@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://github.com/201206030/novel-plus.git">
-  <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=201206030&repo=novel-plus&theme=nightowl&cache_seconds=1801" />
+  <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=201206030&repo=novel-plus&theme=nightowl&cache_seconds=1802" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/201206030/novel-cloud.git">
