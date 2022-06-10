@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 <!-- GitHub Extra Pins - https://github.com/anuraghazra/github-readme-stats -->
 <a href="https://github.com/201206030/novel.git" >
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=201206030&repo=novel&show_owner=true&theme=nightowl" />
+  <img style="width:50%" src="https://github-readme-stats.vercel.app/api/pin/?username=201206030&repo=novel&show_owner=true&theme=nightowl" />
 </a>
 <a href="https://github.com/201206030/novel-front-web.git" >
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=201206030&repo=novel-front-web&show_owner=true&theme=nightowl" />
