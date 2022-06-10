@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://github.com/201206030/novel-plus.git">
-  <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=201206030&repo=novel-plus&theme=nightowl" />
+  <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=201206030&repo=novel-plus&theme=nightowl&cache_seconds=1800" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/201206030/novel-cloud.git">
